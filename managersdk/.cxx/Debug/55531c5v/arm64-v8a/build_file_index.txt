@@ -1,0 +1,1 @@
+/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/CMakeLists.txt

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/.cxx/Debug/55531c5v/x86_64",
+  "command": "/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDEBUG -isystem /Users/manjiale/.gradle/caches/8.14/transforms/a7f41ab55a11ac76a0fd4e1442bc9266/transformed/libcxx-27.0.12077973/prefab/modules/cxx/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -fno-limit-debug-info  -fPIE -Werror=format -fdata-sections -ffunction-sections -fno-exceptions -fno-rtti -fno-threadsafe-statics -o CMakeFiles/libshizuku.so.dir/starter.cpp.o -c /Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/starter.cpp",
+  "file": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/starter.cpp",
+  "output": "CMakeFiles/libshizuku.so.dir/starter.cpp.o"
+},
+{
+  "directory": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/.cxx/Debug/55531c5v/x86_64",
+  "command": "/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDEBUG -isystem /Users/manjiale/.gradle/caches/8.14/transforms/a7f41ab55a11ac76a0fd4e1442bc9266/transformed/libcxx-27.0.12077973/prefab/modules/cxx/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -fno-limit-debug-info  -fPIE -Werror=format -fdata-sections -ffunction-sections -fno-exceptions -fno-rtti -fno-threadsafe-statics -o CMakeFiles/libshizuku.so.dir/misc.cpp.o -c /Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/misc.cpp",
+  "file": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/misc.cpp",
+  "output": "CMakeFiles/libshizuku.so.dir/misc.cpp.o"
+},
+{
+  "directory": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/.cxx/Debug/55531c5v/x86_64",
+  "command": "/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDEBUG -isystem /Users/manjiale/.gradle/caches/8.14/transforms/a7f41ab55a11ac76a0fd4e1442bc9266/transformed/libcxx-27.0.12077973/prefab/modules/cxx/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -fno-limit-debug-info  -fPIE -Werror=format -fdata-sections -ffunction-sections -fno-exceptions -fno-rtti -fno-threadsafe-statics -o CMakeFiles/libshizuku.so.dir/selinux.cpp.o -c /Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/selinux.cpp",
+  "file": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/selinux.cpp",
+  "output": "CMakeFiles/libshizuku.so.dir/selinux.cpp.o"
+},
+{
+  "directory": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/.cxx/Debug/55531c5v/x86_64",
+  "command": "/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDEBUG -isystem /Users/manjiale/.gradle/caches/8.14/transforms/a7f41ab55a11ac76a0fd4e1442bc9266/transformed/libcxx-27.0.12077973/prefab/modules/cxx/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -fno-limit-debug-info  -fPIE -Werror=format -fdata-sections -ffunction-sections -fno-exceptions -fno-rtti -fno-threadsafe-statics -o CMakeFiles/libshizuku.so.dir/cgroup.cpp.o -c /Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/cgroup.cpp",
+  "file": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/cgroup.cpp",
+  "output": "CMakeFiles/libshizuku.so.dir/cgroup.cpp.o"
+},
+{
+  "directory": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/.cxx/Debug/55531c5v/x86_64",
+  "command": "/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDEBUG -Dadb_EXPORTS -isystem /Users/manjiale/.gradle/caches/8.14/transforms/b42815ab2376a87ae6d728d5b5805572/transformed/boringssl-20250114/prefab/modules/crypto_static/include -isystem /Users/manjiale/.gradle/caches/8.14/transforms/a7f41ab55a11ac76a0fd4e1442bc9266/transformed/libcxx-27.0.12077973/prefab/modules/cxx/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -fno-limit-debug-info  -fPIC -Werror=format -fdata-sections -ffunction-sections -fno-exceptions -fno-rtti -fno-threadsafe-statics -o CMakeFiles/adb.dir/adb_pairing.cpp.o -c /Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/adb_pairing.cpp",
+  "file": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/adb_pairing.cpp",
+  "output": "CMakeFiles/adb.dir/adb_pairing.cpp.o"
+},
+{
+  "directory": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/.cxx/Debug/55531c5v/x86_64",
+  "command": "/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/manjiale/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDEBUG -Dadb_EXPORTS -isystem /Users/manjiale/.gradle/caches/8.14/transforms/b42815ab2376a87ae6d728d5b5805572/transformed/boringssl-20250114/prefab/modules/crypto_static/include -isystem /Users/manjiale/.gradle/caches/8.14/transforms/a7f41ab55a11ac76a0fd4e1442bc9266/transformed/libcxx-27.0.12077973/prefab/modules/cxx/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -fno-limit-debug-info  -fPIC -Werror=format -fdata-sections -ffunction-sections -fno-exceptions -fno-rtti -fno-threadsafe-statics -o CMakeFiles/adb.dir/misc.cpp.o -c /Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/misc.cpp",
+  "file": "/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/src/main/jni/misc.cpp",
+  "output": "CMakeFiles/adb.dir/misc.cpp.o"
+}
+]

@@ -1,0 +1,4 @@
+/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/.cxx/Debug/55531c5v/x86/CMakeFiles/libshizuku.so.dir
+/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/.cxx/Debug/55531c5v/x86/CMakeFiles/adb.dir
+/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/.cxx/Debug/55531c5v/x86/CMakeFiles/edit_cache.dir
+/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/.cxx/Debug/55531c5v/x86/CMakeFiles/rebuild_cache.dir

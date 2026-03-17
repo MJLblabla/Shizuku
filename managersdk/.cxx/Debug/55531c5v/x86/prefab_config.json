@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/manjiale/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/manjiale/.gradle/caches/8.14/transforms/b42815ab2376a87ae6d728d5b5805572/transformed/boringssl-20250114/prefab",
+    "/Users/manjiale/.gradle/caches/8.14/transforms/a7f41ab55a11ac76a0fd4e1442bc9266/transformed/libcxx-27.0.12077973/prefab"
+  ]
+}

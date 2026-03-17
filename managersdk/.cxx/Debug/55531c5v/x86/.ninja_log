@@ -1,0 +1,9 @@
+# ninja log v5
+0	63	1773724182271312271	CMakeFiles/libshizuku.so.dir/misc.cpp.o	6b033e518f835199
+0	66	1773724182273699406	CMakeFiles/libshizuku.so.dir/cgroup.cpp.o	2ab8ef234487564e
+3	66	1773724182265465456	CMakeFiles/adb.dir/misc.cpp.o	4ee8d37ec362eeb
+0	71	1773724182277793131	CMakeFiles/libshizuku.so.dir/selinux.cpp.o	6a51d1654ad140fd
+2	229	1773724182432911000	CMakeFiles/adb.dir/adb_pairing.cpp.o	f397b3ee05e0cd4
+230	400	1773724182603071888	/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/build/intermediates/cxx/Debug/55531c5v/obj/x86/libadb.so	ad8318e29a0bd44
+0	766	1773724182970977857	CMakeFiles/libshizuku.so.dir/starter.cpp.o	239156623254b679
+766	889	1773724183087086279	/Users/manjiale/blaWatchDog/blashizuku/Shizuku/managersdk/build/intermediates/cxx/Debug/55531c5v/obj/x86/libshizuku.so	2771731636c384d8
